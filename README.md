@@ -1,18 +1,46 @@
-<h3 align="center">👨🏻‍💻FiveM Developer</h3>
-
-- about-me ~~ **☄️16yo | Philippines**
-
-- 🤫shh **WIP (kumakant*t)**
-
-- 💣You can contact me on Discord ~~ [reppinred](https://pinayflixtv.com/)
-
-- #1 **😈.gg/fukushima**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/22085619" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22085619" height="30" width="40" /></a>
+<p align = center > 
+  <img src="https://media.discordapp.net/attachments/918497262290759771/1116117375415242772/filled-logo-removebg-preview.png">
 </p>
 
-<h3 align="left">// fukushima</h3>
-<p align="left"> <a href="https://www.lua.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/512px-Lua-Logo.svg.png" alt="lua" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+<div>
+<img align="right" width="400" alt="Devy" src="https://i.pinimg.com/564x/41/32/08/4132080bf1d307b2afc5a6d63d67f173.jpg"/>
+
+<h2> // about-me </h2>
+  
+- ☄️16yo | Philippines
+- 👨🏻‍💻 FiveM Dev
+- 🦥 Too Lazy
+- 🧊 Kakanain ung b*tch mo
+- 🔴 pero di galit sa 🔵
+
+
+<h2> // socialzz </h2>
+  
+- 💣You can contact me on Discord ~~ [reppinred](https://pinayflixtv.com/)
+- #1 **😈.gg/fukushima**
+- 🥶 [reppin' red](https://www.youtube.com/watch?v=-ZJTKdg5cfM&list=RDiZ3FNveKZs4&index=7)
+
+<h2> // skillz </h2>
+<img src = "https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt = "lua"/>
+<img src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt = "python"/>
+<img src = "https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt = "c"/>
+<img src = "https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt = "cs"/>
+<img src = "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt = "html5"/>
+<img src = "https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt = "javascript"/>
+<img src = "https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt = "net"/>
+<img src = "https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt = "nodejs"/>
+<img src = "https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt = "mysql"/>
+
+ <h2> // editing </h2>
+ <img src = "https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt = "photoshop" />
+ <img src = "https://img.shields.io/badge/adobe%20premiere%20pro-%23212BDE.svg?style=for-the-badge&logo=adobe%20pr&logoColor=white" alt = "premiere" />
+
+
+</br></br>
+</div>
+
+<div align="center">
+
+[![widget](https://i.pinimg.com/originals/0e/61/d8/0e61d8f9397309ddbcec4bd4bd75c022.gif)](hanime.tv)
+
+</div>
